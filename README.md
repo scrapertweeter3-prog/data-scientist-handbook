@@ -46,8 +46,8 @@ Great YouTube channels with lots of free tutorials to help you learn data scienc
 
 ## Blogs
 - [Towards Data Science](https://towardsdatascience.com/): A Medium publication that publishes well-written, informative articles on various data science topics.
-- [freeCodeCamp.org](https://www.freecodecamp.org/news/tag/data-science/)
-- [PastAGI](https://www.pastagi.com/): Practical AI guides and honest tool reviews for builders, with serving-math audits and benchmark-skepticism analysis.: Articles and tutorials covering a wide range of data science concepts, from basic to advanced.
+- [freeCodeCamp.org](https://www.freecodecamp.org/news/tag/data-science/): Articles and tutorials covering a wide range of data science concepts, from basic to advanced.
+- [PastAGI](https://www.pastagi.com/): Practical AI guides and honest tool reviews for builders, with serving-math audits and benchmark-skepticism analysis.
 
 ## Newsletters
 - [Neural Pulse](https://neuralpulse.io/subscribe): A 5-minute, human-curated newsletter delivering the best in AI, ML, and data science (twice a week).
